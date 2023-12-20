@@ -7,7 +7,7 @@
 - 👀 I’m interested in Frontend and Kotlin development!
 - 🌱 I’m currently learning Kotlin and mySQL!
 - 💞️ I’m looking to collaborate on projects!
-- 🐾 Fun fact: Ths dog above is Luna! She's a 2 year old Samoyed! 
+- 🐾 Fun fact: The dog above is Luna! She's a 2 year old Samoyed! 
 
 ### Connect with me!
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
