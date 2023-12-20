@@ -1,4 +1,7 @@
-![Imgur](https://imgur.com/VFDlh2t.png)
+<p align="center">
+  <img src="https://imgur.com/VFDlh2t.png" />
+</p>
+
 
 ## I'm a full stack developer currently studying at Michigan State University!
 - 👀 I’m interested in Frontend and Kotlin development!
