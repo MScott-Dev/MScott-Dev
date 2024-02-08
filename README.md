@@ -5,7 +5,7 @@
 
 ## I'm a full stack developer currently studying at Michigan State University!
 - 👀 I’m interested in Frontend and Kotlin development!
-- 🌱 I’m currently learning Kotlin and mySQL!
+- 🌱 I’m currently learning Kotlin and MongoDB!
 - 💞️ I’m looking to collaborate on projects!
 - 🐾 Fun fact: The dog above is Luna! She's a 2 year old Samoyed! 
 
