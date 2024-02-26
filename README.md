@@ -29,6 +29,7 @@ MScott-Dev/MScott-Dev is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ### GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MScott-Dev&theme=catppuccin_mocha)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MScott-Dev&theme=catppuccin_mocha) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MScott-Dev&layout=donut&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 
